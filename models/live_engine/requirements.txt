@@ -1,0 +1,15 @@
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+requests
+yfinance
+python-dotenv
+pytz
+rich
+torch
+transformers
+tqdm
+scipy

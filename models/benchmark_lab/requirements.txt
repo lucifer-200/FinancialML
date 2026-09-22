@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+requests
+yfinance
+torch
+transformers
+tqdm
+scipy

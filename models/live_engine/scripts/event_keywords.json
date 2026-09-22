@@ -1,0 +1,44 @@
+{
+    "FINANCIAL": [
+        "earnings",
+        "profit",
+        "loss",
+        "revenue",
+        "results",
+        "dividend",
+        "guidance"
+    ],
+    "GOVERNANCE": [
+        "arrested",
+        "raid",
+        "sebi",
+        "cbi",
+        "ed",
+        "fraud",
+        "scam",
+        "money laundering",
+        "investigation",
+        "court",
+        "verdict"
+    ],
+    "MANAGEMENT": [
+        "ceo",
+        "cfo",
+        "promoter",
+        "chairman",
+        "resigned",
+        "steps down",
+        "removed"
+    ],
+    "BUSINESS": [
+        "contract",
+        "order",
+        "deal",
+        "expansion",
+        "merger",
+        "acquisition",
+        "debt",
+        "restructuring",
+        "layoffs"
+    ]
+}
